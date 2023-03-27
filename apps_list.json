@@ -1,0 +1,26 @@
+[
+   {
+      "appOrder":1,
+      "name":"ATI AMS",
+      "appId":"net.ati.ams",
+      "img":"assets/images/ati-ams.webp"
+   },
+   {
+      "appOrder":2,
+      "name":"ATI MEDiTOP",
+      "appId":"net.atilimited.meditop",
+      "img":"assets/images/ati-medi.webp"
+   },
+   {
+      "appOrder":3,
+      "name":"ATI-S&M",
+      "appId":"com.ati.snm",
+      "img":"assets/images/ati-s&m.webp"
+   },
+   {
+      "appOrder":4,
+      "name":"ATI ESS",
+      "appId":"net.ati.ati_erp",
+      "img":"assets/images/ati-ess.webp"
+   }
+]
